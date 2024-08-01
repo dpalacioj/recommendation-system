@@ -1,0 +1,5 @@
+env/
+artifacts/
+src.egg-info/
+.env
+data/

@@ -1,0 +1,13 @@
+# numpy
+# pandas
+# matplotlib
+# nltk
+# scikit-learn
+# ipykernel
+# requests
+
+python-dotenv
+streamlit
+
+# Local packages
+-e .
